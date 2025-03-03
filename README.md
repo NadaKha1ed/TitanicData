@@ -1,5 +1,5 @@
 # TitanicData
-Tools & Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+Tools & Technologies: Python (Pandas, NumPy, Matplotlib, Seaborn)
 •	Conducted data preprocessing by handling missing values, encoding categorical variables, and optimizing data types for efficient storage.
 •	Engineered new features, such as extracting titles from passenger names to analyze their impact on survival rates.
 •	Analyzed correlations between survival rates and features like gender, class, embarked location, and ticket prices.
